@@ -1,4 +1,4 @@
-# 🔍 Supervision & Sécurité Réseau – 2025
+# 🔍 Supervision & Sécurité Réseau
 
 Mise en place d’une **infrastructure de supervision réseau** basée sur la **stack ELK** (Elasticsearch, Logstash, Kibana).
 
